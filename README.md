@@ -1,1 +1,1 @@
-[![Cover](Cover.png)]("AI Fairness Definition Guide.pdf")
+[![Cover](Cover.png)](<AI Fairness Definition Guide.pdf>)
